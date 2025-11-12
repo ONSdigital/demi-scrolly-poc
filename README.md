@@ -17,3 +17,7 @@ Upload the zip file as a visualisation.
 When you preview the visualisation, you should see what you've built in the preview. Grab the code from the index html and put it as a content block in Florence and you should see your beautiful creation.
 
 ![Screenshot of Florence editor](image.png)
+
+
+## Work in progress
+So this isn't working. On a more complex example, the styles are getting loaded with external resources which Florence doesn't handle. I've tried to inline the styles into elements with inline-css node package but it isn't quite working. 
